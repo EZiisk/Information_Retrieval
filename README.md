@@ -13,6 +13,6 @@ Performance was measured in:
 - relevance (scored using bespoke TREC relevance scoring)
 
 # To run:
- Download dataset and update patchs to match local file location
+ Download dataset and update paths to match local file location
  - follow comments in notebook for guidance/ explanation
  
